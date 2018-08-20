@@ -11,7 +11,7 @@ good reads of php, useful tips and self notes
 use constant inside a class when the constant is script dependent; otherwise, consider definition.
 ```
 + [arrays in php](http://php.net/manual/en/language.types.array.php)
-+ [argc, argv, getpot](http://php.net/manual/en/reserved.variables.argc.php)
++ [argc, argv, getopt](http://php.net/manual/en/reserved.variables.argc.php)
 + [how to terminate php script](http://php.net/manual/en/function.exit.php)
 + [var_dump](https://www.geeksforgeeks.org/php-var_dump-function/)
 + [use variable inside string](https://stackoverflow.com/questions/5605965/php-concatenate-or-directly-insert-variables-in-string)
