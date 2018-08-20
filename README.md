@@ -9,4 +9,7 @@ good reads of php and useful tips and self notes
 + [constant versus variable](https://www.tutorialspoint.com/php/php_constants.htm)
 + [import in php](http://php.net/manual/en/language.namespaces.importing.php)
 + [sprintf](http://php.net/manual/en/function.sprintf.php)
++ [constant vs. definition](http://php.net/manual/en/language.constants.php)
++ [arrays in php](http://php.net/manual/en/language.types.array.php)
++ [argc, argv, getpot](http://php.net/manual/en/reserved.variables.argc.php)
 
