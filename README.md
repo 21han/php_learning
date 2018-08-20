@@ -15,3 +15,5 @@ good reads of php and useful tips and self notes
 + [how to terminate php script](http://php.net/manual/en/function.exit.php)
 + [var_dump](https://www.geeksforgeeks.org/php-var_dump-function/)
 + [use variable inside string](https://stackoverflow.com/questions/5605965/php-concatenate-or-directly-insert-variables-in-string)
++ [run multi-line hive query in php](http://php.net/manual/en/mysqli.quickstart.multiple-statement.php)
++ 
