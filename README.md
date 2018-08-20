@@ -12,4 +12,4 @@ good reads of php and useful tips and self notes
 + [constant vs. definition](http://php.net/manual/en/language.constants.php)
 + [arrays in php](http://php.net/manual/en/language.types.array.php)
 + [argc, argv, getpot](http://php.net/manual/en/reserved.variables.argc.php)
-
++ [how to terminate php script](http://php.net/manual/en/function.exit.php)
