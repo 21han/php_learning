@@ -18,6 +18,10 @@ use constant inside a class when the constant is script dependent; otherwise, co
 + [run multi-line hive query in php](http://php.net/manual/en/mysqli.quickstart.multiple-statement.php)
 + [string format](http://php.net/manual/en/function.sprintf.php)
 
+```
+For command scripts, use set-up to import new options and avoid use `$this->` when having only a few functions. In addition, should avoid use print_r and use sprintf along with string format. 
+```
+
 ### More comprehensive Reading Lists
 + [PHP LEAGUE](https://thephpleague.com/#packages)
 
